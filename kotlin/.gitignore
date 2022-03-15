@@ -1,0 +1,6 @@
+# Personal
+.idea/
+
+# Gradle
+gradle/
+.gradle/

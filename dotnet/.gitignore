@@ -1,0 +1,7 @@
+# Dotnet build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.sln

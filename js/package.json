@@ -1,0 +1,34 @@
+{
+  "name": "libkagero.js",
+  "version": "1.0.0",
+  "description": "NPM-Package to allow integration with the Kagero Package Manager in Node.js, Electron and (partially) the Web.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stridsvagn69420/libkagero.git"
+  },
+  "keywords": [
+    "kotlin",
+    "go",
+    "dart",
+    "rust",
+    "csharp",
+    "cpp",
+    "dotnet",
+    "flutter",
+    "fire-emblem",
+    "library",
+    "kagero",
+    "kagero-package-manager"
+  ],
+  "author": "Stridsvagn69420 <Stridsvagn69420@users.noreply.github.com> (https://github.com/Stridsvagn69420)",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Stridsvagn69420/libkagero/issues"
+  },
+  "homepage": "https://github.com/Stridsvagn69420/libkagero#readme"
+}
