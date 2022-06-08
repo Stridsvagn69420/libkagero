@@ -1,5 +1,6 @@
 # Personal
 .idea/
+local.properties
 
 # Gradle
 gradle/
