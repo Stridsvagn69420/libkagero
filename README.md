@@ -2,7 +2,7 @@
 Libraries for many languages to easily integrate the Kagero/Orochi system into your application
 
 # Languages
-NOTE: The Rust version aka. the backend for [Orochi](https://github.com/Stridsvagn69420/Orochi) and [Kagero](https://github.com/) is located in Kagero's repository as it's both a binary and library. 
+NOTE: The Rust version aka. the backend for [Orochi](https://github.com/Stridsvagn69420/Orochi) and [Kagero](https://github.com/Stridsvagn69420/Kagero) is located in Kagero's repository as it's both a binary and library. 
 ## Supported
 Still in developement.
 
