@@ -1,5 +1,5 @@
 {
-  "name": "libkagero",
+  "name": "kagero",
   "version": "1.0.0",
   "description": "NPM-Package to allow integration with the Kagero Package Manager in Node.js, Electron and (partially) the Web.",
   "main": "dist/index.js",
